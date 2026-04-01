@@ -1,0 +1,1 @@
+/home/yhcanbay/YHC/Java_Projects/Raporlama-Projesi/venv/bin/python: No module named pip
